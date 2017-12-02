@@ -1,0 +1,17 @@
+* >Natural Source Header 000000
+* :Mode S
+* :CP
+* <Natural Source Header
+/** New Program P4.
+/**
+/** :author Demo
+/* TODO Enter your code here
+define data local
+using loc1
+end-define
+*
+move 'Luciano' to nome
+move '981619272' to tel
+move 'Goiania' to cidade
+write nome /tel / cidade / *time
+END
