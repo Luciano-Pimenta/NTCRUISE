@@ -10,3 +10,16 @@ DEFINE DATA LOCAL
 1 NOME(a10)
 1 TEL(a10)
 END-DEFINE
+DEFINE DATA LOCAL
+/* >Natural Source Header 000000
+/* :Mode S
+/* :CP
+/* <Natural Source Header
+/** New Local Data Area LOC1.
+/**
+/** :author Demo
+/* TODO Enter your data definitions here
+1 NOME(a10)
+1 TEL(a10)
+1 CIDADE(A20)
+END-DEFINE
