@@ -5,7 +5,7 @@ DEFINE DATA LOCAL
 /* <Natural Source Header
 /** New Local Data Area LOC1.
 /**
-/** :author Demo
+/** :author brlpi
 /* TODO Enter your data definitions here
 1 NOME(a10)
 1 TEL(a10)
