@@ -14,4 +14,5 @@ move 'Luciano' to nome
 move '981619272' to tel
 move 'Goiania' to cidade
 write nome /tel / cidade / *time
+*
 END
