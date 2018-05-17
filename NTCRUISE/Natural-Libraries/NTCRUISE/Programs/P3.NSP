@@ -1,0 +1,18 @@
+* >Natural Source Header 000000
+* :Mode S
+* :CP
+* <Natural Source Header
+/** New Program P3.
+/**
+/** :author brlpi
+/* TODO Enter your code here
+define data local
+using loc1
+local
+1 i(n03)
+1 j(n02)
+end-define
+*
+move '981619272' to tel
+write nome /tel / *time
+END
