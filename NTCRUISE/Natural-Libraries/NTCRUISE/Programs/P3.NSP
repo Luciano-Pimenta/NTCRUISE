@@ -13,10 +13,6 @@ local
 1 j(n02)
 end-define
 *
-input 'informe J: ' j 
-for i 1 j
-move 'Luciano' to nome
-end-for
 move '981619272' to tel
 write nome /tel / *time
 END
